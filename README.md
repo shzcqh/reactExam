@@ -68,8 +68,8 @@ Add your name and student number to the README.md file, as shown below:
 # React In-class Exam, November 2024
 
 Your Name, Student Number
-...
-~~~
+HuazeShao
+202109117
 
 Push your changes to GitHub:
 
